@@ -38,6 +38,7 @@ dependencies:
   screenshot: ^1.2.3
   image_gallery_saver:
   permission_handler: ^9.2.0
+  provider:
 
 dev_dependencies:
   flutter_test:
